@@ -2,6 +2,8 @@
 
 A React and redux based task management application built for the **JdeRobot GSoC 2025** React Challenge. This app extends a basic task manager with advanced features like filtering, categories, priorities, search, drag-and-drop reordering, and due dates.
 
+**Application is live at https://taskbuddy-ztf4.onrender.com/**
+
 ---
 
 https://github.com/user-attachments/assets/d5c1ac86-94d3-4945-b523-c424224c3349
@@ -24,9 +26,6 @@ https://github.com/user-attachments/assets/d5c1ac86-94d3-4945-b523-c424224c3349
    ```
    npm start
    ```
-
-
-**Application is live at https://taskbuddy-ztf4.onrender.com/**
 
 ---
 
