@@ -40,7 +40,7 @@ const Header = () => {
             <div className="h-10 w-10 bg-white rounded-lg flex items-center justify-center">
               <span className="text-indigo-600 font-bold text-xl">TB</span>
             </div>
-            <h1 className="text-2xl font-bold hidden md:block">Taskly</h1>
+            <h1 className="text-2xl font-bold hidden md:block">TaskBuddy</h1>
           </div>
 
           <div className="flex items-center space-x-4">
